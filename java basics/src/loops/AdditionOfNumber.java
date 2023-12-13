@@ -2,6 +2,8 @@ package loops;
 
 import java.util.Scanner;
 
+// write a program to inter number from user and print the addition of aa digit using both loops
+
 public class AdditionOfNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
