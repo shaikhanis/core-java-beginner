@@ -19,7 +19,7 @@ public class specialSeries {
                 b =b + 2;
                 count = 2;
             }
-            System.out.println(c);
+            System.out.print(c + ",");
         }
 
     }
